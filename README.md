@@ -2,7 +2,7 @@ BytePro
 
 Mini macro with button selection 
 
-load screen
+Application with toggle buttons
  - option for wholesale or correspondent channel (different print options)
  - select audit type
  - option to just print loan approval without completing qc screen
