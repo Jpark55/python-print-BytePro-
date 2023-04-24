@@ -14,7 +14,7 @@ Find QC screen (qca2.py)
  - select user 
 
 Print loan approval (print_app.py)
- - timer is required since BytePro programs lags at random intervals
+ - timer is required since BytePro program lags at random intervals
  - select custom form
  - select document name
  - confirm print
